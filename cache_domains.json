@@ -121,7 +121,7 @@
 			"name": "xboxlive",
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
-		}
+		},
 		{
 			"name": "hetzner",
 			"description": "CDN for Hetzner-Files",
